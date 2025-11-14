@@ -4,6 +4,10 @@
 
 ###
 
+<h3 align="center">Ex-BDA(Data) at UC, now turning spreadsheets into stories</h3>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="59" alt="mysql logo"  />
   <img width="12" />
@@ -44,27 +48,27 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dhruba-debnath/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/916296744463" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="whatsapp logo"  />
   </a>
   <a href="mailto:dhruba.work.1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyb3NwYXVxMWNwdGYzbnRlYmF4ejljdG10czMxeHhwaTFxcW9ycnY0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhrubad304-eng&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=dhrubad304-eng&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="218" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyb3NwYXVxMWNwdGYzbnRlYmF4ejljdG10czMxeHhwaTFxcW9ycnY0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
 
 ###
